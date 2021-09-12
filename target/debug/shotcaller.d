@@ -1,0 +1,1 @@
+/home/sindre/rust/shotcaller/target/debug/shotcaller: /home/sindre/rust/shotcaller/assets/whale.png /home/sindre/rust/shotcaller/src/characters.rs /home/sindre/rust/shotcaller/src/main.rs /home/sindre/rust/shotcaller/src/tiles.rs

@@ -1,0 +1,12 @@
+/home/sindre/rust/shotcaller/target/debug/deps/proc_macro2-790d85e9ae3a3c38.rmeta: /home/sindre/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.27/src/lib.rs /home/sindre/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.27/src/marker.rs /home/sindre/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.27/src/parse.rs /home/sindre/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.27/src/detection.rs /home/sindre/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.27/src/fallback.rs /home/sindre/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.27/src/wrapper.rs
+
+/home/sindre/rust/shotcaller/target/debug/deps/libproc_macro2-790d85e9ae3a3c38.rlib: /home/sindre/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.27/src/lib.rs /home/sindre/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.27/src/marker.rs /home/sindre/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.27/src/parse.rs /home/sindre/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.27/src/detection.rs /home/sindre/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.27/src/fallback.rs /home/sindre/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.27/src/wrapper.rs
+
+/home/sindre/rust/shotcaller/target/debug/deps/proc_macro2-790d85e9ae3a3c38.d: /home/sindre/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.27/src/lib.rs /home/sindre/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.27/src/marker.rs /home/sindre/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.27/src/parse.rs /home/sindre/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.27/src/detection.rs /home/sindre/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.27/src/fallback.rs /home/sindre/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.27/src/wrapper.rs
+
+/home/sindre/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.27/src/lib.rs:
+/home/sindre/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.27/src/marker.rs:
+/home/sindre/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.27/src/parse.rs:
+/home/sindre/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.27/src/detection.rs:
+/home/sindre/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.27/src/fallback.rs:
+/home/sindre/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.27/src/wrapper.rs:
